@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Кликер</string>
+    <string name="a11y_desc">Нужна для нажатий в игре. Без неё бот не может нажимать кнопки.</string>
+</resources>
